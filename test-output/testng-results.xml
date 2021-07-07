@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18128" started-at="2021-06-19T06:28:39Z" finished-at="2021-06-19T06:28:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18128" started-at="2021-06-19T06:28:39Z" finished-at="2021-06-19T06:28:57Z">
+      <class name="June10.suppliers">
+        <test-method status="PASS" signature="setup()[pri:0, instance:June10.suppliers@18be83e4]" name="setup" duration-ms="18108" started-at="2021-06-19T11:58:39Z" finished-at="2021-06-19T11:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- June10.suppliers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
